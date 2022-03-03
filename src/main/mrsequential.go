@@ -1,7 +1,7 @@
 package main
 
 //
-// simple sequential MapReduce.
+// simple sequential MapReduce. 
 //
 // go run mrsequential.go wc.so pg*.txt
 //
